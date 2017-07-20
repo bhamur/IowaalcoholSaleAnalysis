@@ -5,8 +5,10 @@ In this Project, I have implemented SSIS packages to load Sales Data Mart. I hav
 
 With this Analysis, I am trying to answer below business questions
 
-1. Which Liquor Category has maximum Sales in Iowa State?
-2. Which Vendor has maximum Sales amount in State?
+1. Sales Distribution across different liquor Category
+2. Sales Distribution across different Vendor Category
+3. Sales distribution across different Items
+4. Sales distribution across Weekday vs Weekends
 
 The star schema design looks like below:
 
