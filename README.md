@@ -12,7 +12,5 @@ The data cleansing that has been done includes
 1. The null and blank values for Category, County and City has been replaced by Unknown.
 2. Since the Sale Amount in Dollars is not consistent, It has been calculated in SSIS package using derived column transformation as QtySold * StateBottleRetail.
 
-The star schema design looks like below:
-
 References:
 https://gist.github.com/dannguyen/18ed71d3451d147af414
