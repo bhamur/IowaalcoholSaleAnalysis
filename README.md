@@ -1,6 +1,4 @@
 # IowaalcoholSaleAnalysis
-Data Analysis of publicly available Iowa alcohol sale data set 
-
 In this Project, I have implemented SSIS packages to load Sales Data Mart. I have followed Star Schema approach and there has already been some work done on the data set that I have listed in my References Section.
 
 With this Analysis, I am trying to analyze below business scenarios
