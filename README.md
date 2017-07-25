@@ -1,7 +1,7 @@
 # IowaalcoholSaleAnalysis
 In this Project, I have implemented SSIS packages to load Sales Data Mart. I have followed Star Schema approach and there has already been some work done on the data set that I have listed in my References Section.
 
-With this Analysis, I am trying to analyze below business scenarios
+With this Analysis, I am trying to analyze below business scenarios by creating charts/reports for each scenario in SSRS
 
 1. Sales Distribution across different liquor Category
 2. Sales Distribution across different Vendor Category
